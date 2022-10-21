@@ -10,7 +10,7 @@ Gracz może wymieniać kości między rzutami, może również zrezygnować z da
 Jeśli zdecyduje się na wpisanie wyniku po pierwszym rzucie, wartość zostanie podwojona. Jednak musi być ostrożny w podejmowaniu tego ryzyka - podwojeniu ulegają również ujemne wyniki.
 W ramach jednej kolumny gracz podchodzi do siedemnastu prób.
 
-W pierwszych sześciu wierszach znajdują się wartości z tak zwanej szkoły.
+W pierwszych sześciu wierszach znajdują się wartości ze szkoły.
 Jeśli gracz wyrzuci trzy kości z daną liczbą oczek, to otrzymuje punkt, który może wpisać do danej kolumny.
 Jeśli więcej, to otrzymuje dodatkowe punkty. Jeśli mniej, to punkty są odejmowane.
 Szczegółowy algorytm jest opisany w komentarzach do pliku kombinacje.py.
